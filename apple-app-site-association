@@ -1,0 +1,18 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "AppleOne.WCvWd7BJ1587m3WVnkxNVCc0",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "AppleOne.WCvWd7BJ1587m3WVnkxNVCc0"
+    ]
+  }
+}
